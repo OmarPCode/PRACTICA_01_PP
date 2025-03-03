@@ -1,0 +1,1 @@
+Esta práctica consistió en crear una página HTML muy básica con estilos y archivo de JS para ejecutar algunas funciones.
